@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> jiujitsu is life</h1>
+    return <h1> obrigado be pela oportunidade</h1>
 }
 
 export default Home;
